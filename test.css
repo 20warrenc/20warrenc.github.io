@@ -1,12 +1,10 @@
-.outer-box {
-width: 400px;
-height: 300px;
-border: 5px dashed black;
-margin: 20px;
-}
-
-.type-changed {
-display: inline-block;
-width: 10px;
-height: 10px;
+.outer {
+    width 400px;
+    height: 400px;
+    margin: 5px;
+    padding: 5px;
+    border: 5px solid #454545;
+    border-radius: 10px;
+    background-color: #8eda93;
+    position: static;
 }
